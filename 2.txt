@@ -1,2 +1,7 @@
 dfudshfkjdshgudh
+<<<<<<< HEAD
 第二次更新
+=======
+第二次更新
+
+>>>>>>> origin/qym

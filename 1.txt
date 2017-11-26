@@ -2,10 +2,18 @@ aaaaaaa1111111111
 33333333
 wwwwwwwwwwwwww
 
+<<<<<<< HEAD
 qqqqqqqqqqqqqq
 
+=======
+>>>>>>> origin/qym
 
 kkkkkkkkk
 
 
+<<<<<<< HEAD
 uiewrghoisg
+=======
+uiewrghoisg
+
+>>>>>>> origin/qym
