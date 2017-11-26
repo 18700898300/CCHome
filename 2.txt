@@ -1,7 +1,3 @@
 dfudshfkjdshgudh
 第二次更新
-<<<<<<< HEAD
-第三次更新
-=======
-第三次
->>>>>>> origin/wangfei
+
