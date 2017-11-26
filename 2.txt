@@ -1,8 +1,3 @@
 dfudshfkjdshgudh
 第二次更新
-<<<<<<< HEAD
-第三次
-=======
-第三次更新
->>>>>>> origin/master
-第四次
+
